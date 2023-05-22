@@ -20,10 +20,10 @@
 
 #### 고려사항
 
-1. [Front-End](./Considerations/client)
-2. [Back-End](./Considerations/server/)
+1. [Front-End](./README/Considerations/client)
+2. [Back-End](./README/Considerations/server/)
 
 #### 구현절차
 
-1. [Front-End](./Procedures/client)
-2. [Back-End](./Procedures/server/)
+1. [Front-End](./README/Procedures/client)
+2. [Back-End](./README/Procedures/server/)
