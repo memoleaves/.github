@@ -44,14 +44,6 @@ Jira, Figma, AWS
 
 
 
-### README
+### Wiki
 
-#### 고려사항
-
-1. [Front-End](./README/Considerations/FrontEnd)
-2. [Back-End](./README/Considerations/BackEnd/)
-
-#### 구현절차
-
-1. [Front-End](./README/Procedures/FrontEnd)
-2. [Back-End](./README/Procedures/BackEnd/)
+프로젝트에 대한 모든 정보는 [이 곳](https://github.com/memoleaves/.github/wiki)에서 확인 가능합니다.
